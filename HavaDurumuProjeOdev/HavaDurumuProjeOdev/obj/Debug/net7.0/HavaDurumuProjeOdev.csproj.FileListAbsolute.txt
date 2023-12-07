@@ -1,0 +1,17 @@
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.csproj.AssemblyReference.cache
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.AssemblyInfoInputs.cache
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.AssemblyInfo.cs
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.csproj.CoreCompileInputs.cache
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/bin/Debug/net7.0/HavaDurumuProjeOdev
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/bin/Debug/net7.0/HavaDurumuProjeOdev.deps.json
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/bin/Debug/net7.0/HavaDurumuProjeOdev.runtimeconfig.json
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/bin/Debug/net7.0/HavaDurumuProjeOdev.dll
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/bin/Debug/net7.0/HavaDurumuProjeOdev.pdb
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.csproj.CopyComplete
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.dll
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/refint/HavaDurumuProjeOdev.dll
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.pdb
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/HavaDurumuProjeOdev.genruntimeconfig.cache
+/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/obj/Debug/net7.0/ref/HavaDurumuProjeOdev.dll

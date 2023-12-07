@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9b/Gclwk9CBLVjDw3D5QawIfnSlO3o82gTRxJOTH3OaR2a54Rx6Cus429x/DFaF5FKiNSzrrQHNJVvdbpxPlg==",
+  "success": true,
+  "projectFilePath": "/Users/erentarhan/Projects/HavaDurumuProjeOdev/HavaDurumuProjeOdev/HavaDurumuProjeOdev.csproj",
+  "expectedPackageFiles": [
+    "/Users/erentarhan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
